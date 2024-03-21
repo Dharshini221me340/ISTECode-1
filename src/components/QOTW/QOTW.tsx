@@ -75,9 +75,7 @@ const QOTW:React.FC<QOTWProps> = ({problem}) => {
          {problem.difficulty}
           </div>
         </div>
-          <span class="jt__row">
-            <span class="jt__text">Prior Questions</span>
-          </span>
+            <span className="jt__text">Prior Questions</span>
         </div>
     
         </div>

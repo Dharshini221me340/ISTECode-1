@@ -339,7 +339,6 @@ code {
   clip-path: polygon(0 0, 100% 0, 100% 50%, 75% 100%, 0 100%); 
 }
 
-
 .quote:hover { 
   
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
@@ -367,8 +366,6 @@ code {
   font-display: swap;
   text-shadow: 0 0 10px tomato;
 }
-
-
 
 @keyframes moveIn {
   50%, 100% { 
